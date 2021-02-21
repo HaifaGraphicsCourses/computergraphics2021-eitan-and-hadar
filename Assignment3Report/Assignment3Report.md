@@ -197,7 +197,7 @@ cylindrical:
 sphearical:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/sphearical_1.png)
 
-![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/spherical_3.png)
+![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/spherical_2.png)
 
 textured mesh with texture mapping:
 
@@ -210,7 +210,7 @@ cylincdircal: i have no idea why or how this turned out to be well fitted but di
 sphearical:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/goku_sphearical.png)
 
-![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/goku_sphearical2.png)
+![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/goku_sphearical3.png)
 
 
 in this picture i accidentally used an equation with normals as texture coordinates and it somehow came out half decent so thought it was pretty cool
