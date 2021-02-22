@@ -171,12 +171,19 @@ light front - alpha 2:
 
 light front - alpha 5:
 
+
+note: when i got the normals from blender i accidenteally imported a small box along with the model, so it shows in the pictures
+
+light from front:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/1.png)
 
+light from fron-left
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/2.png)
 
+light from center-front-below
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/3.png)
 
+light from behind and below
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/4.png)
 
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/5.png)
@@ -204,7 +211,7 @@ textured mesh with texture mapping:
 planar:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/goku_planar.png)
 
-cylincdircal: i have no idea why or how this turned out to be well fitted but different color
+cylincdircal:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/goku_cylindrical2.png)
 
 sphearical:
