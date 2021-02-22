@@ -1,11 +1,11 @@
 part 1:
-at first the function creates a texture and a single vertex array object, and returns a GLuint thatis basically a pointer we can use later to find them.
+at first the function creates a pointer to a texture and a single vertex array object through the functions, which take the GLuint reference we gave them and saves the pointer in them (pointer is the index they will point to)
 next we bind the vertex array object we created using the pointer, and then we generate a single buffer and get a pointer to it.
 after that we define a vertex array and a texture array of our own, we bind the buffer and finally we allocate room for data and pass it.
 then we initiate the shaders, and activate these shaders.
 next we find the arrays we passed earlier, both vertex and texture, and send them to the shaders.
 finally we pass the texture to the shaders, and they will draw the screen.
-
+all in all what we do here is prepare the information for the shaders, allocate space for it and pass it onto the shaders which then draw the scene.
 
 
 
