@@ -233,7 +233,9 @@ the code that resulted in this:
 
 part 8:
 
-normal mapping: here we did nothing fancy, simply took the normal map, transtlated its colors into normals, and used those normals in the light calculation instead of the fragNormal
+normal mapping: here we did nothing fancy, simply took the normal map, transtlated its colors into normals, and used those normals in the light calculation instead of the fragNormal.
+
+
 without normal mapping:
 ![alt text](https://github.com/HaifaGraphicsCourses/computergraphics2021-eitan-and-hadar/blob/master/Assignment3Report/normal_2.png)
 
