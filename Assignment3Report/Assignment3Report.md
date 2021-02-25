@@ -5,7 +5,10 @@ after that we define a vertex array and a texture array of our own, we bind the 
 then we initiate the shaders, and activate these shaders.
 next we find the arrays we passed earlier, both vertex and texture, and send them to the shaders.
 finally we pass the texture to the shaders, and they will draw the screen.
+
 all in all what we do here is prepare the information for the shaders, allocate space for it and pass it onto the shaders which then draw the scene.
+the vertexes we prepare are actually 2 triangles which will represent the screen, we prepare texture coordinates to match the traingles(though they are a bit different because the screen (0,0) starts from the top left) and we will eventually send the colorbuffer as an image for the texture coordinates.
+because the shaders interpolate the position of each pixel, sending only these 2 triangles is enough for the shaders to find the exact color to match each pixel in the color buffer.
 
 
 
